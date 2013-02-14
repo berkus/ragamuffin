@@ -1,0 +1,2331 @@
+--- 
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: evilmnt
+    url: http://www.livejournal.com/users/evilzzm/
+  feed_url: http://www.livejournal.com/users/evilzzm/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Pearls Before Swine по-русски
+    url: http://www.livejournal.com/community/ru_swine/
+  feed_url: http://www.livejournal.com/community/ru_swine/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Berkus Madhouse
+    url: http://www.livejournal.com/users/madfire/
+  feed_url: http://www.livejournal.com/users/madfire/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "евр"
+    url: http://www.livejournal.com/users/evr/
+  feed_url: http://www.livejournal.com/users/evr/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ipaq
+    url: http://www.livejournal.com/community/ipaq/
+  feed_url: http://www.livejournal.com/community/ipaq/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: iPain
+    url: http://www.livejournal.com/users/ipain/
+  feed_url: http://www.livejournal.com/users/ipain/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: love_is_divine
+    url: http://www.livejournal.com/community/love_is_divine/
+  feed_url: http://www.livejournal.com/community/love_is_divine/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Mama Ari
+    url: http://www.livejournal.com/users/mama_ari/
+  feed_url: http://www.livejournal.com/users/mama_ari/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: lytdybr
+    url: http://www.livejournal.com/community/lytdybr/
+  feed_url: http://www.livejournal.com/community/lytdybr/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ru_family
+    url: http://www.livejournal.com/community/ru_family/
+  feed_url: http://www.livejournal.com/community/ru_family/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ru_gadget
+    url: http://www.livejournal.com/community/ru_gadget/
+  feed_url: http://www.livejournal.com/community/ru_gadget/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ru_marazm
+    url: http://www.livejournal.com/community/ru_marazm/
+  feed_url: http://www.livejournal.com/community/ru_marazm/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: shame_les
+    url: http://www.livejournal.com/community/shame_les/
+  feed_url: http://www.livejournal.com/community/shame_les/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: tallinn
+    url: http://www.livejournal.com/community/tallinn/
+  feed_url: http://www.livejournal.com/community/tallinn/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: turg
+    url: http://www.livejournal.com/community/turg/
+  feed_url: http://www.livejournal.com/community/turg/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: zhenatiki
+    url: http://www.livejournal.com/community/zhenatiki/
+  feed_url: http://www.livejournal.com/community/zhenatiki/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: online innovation workshop
+    url: http://www.livejournal.com/community/innoworkshop/
+  feed_url: http://www.livejournal.com/community/innoworkshop/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Skype Community News
+    url: http://share.skype.com
+  feed_url: http://share.skype.com/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: foto_ee
+    url: http://www.livejournal.com/community/foto_ee/
+  feed_url: http://www.livejournal.com/community/foto_ee/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Artificial Intelligence
+    url: http://www.livejournal.com/community/ai_ru/
+  feed_url: http://www.livejournal.com/community/ai_ru/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: STARWARS_RU
+    url: http://www.livejournal.com/community/starwars_ru/
+  feed_url: http://www.livejournal.com/community/starwars_ru/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: rukids
+    url: http://www.livejournal.com/community/rukids/
+  feed_url: http://www.livejournal.com/community/rukids/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: pishu_pravilno
+    url: http://www.livejournal.com/community/pishu_pravilno/
+  feed_url: http://www.livejournal.com/community/pishu_pravilno/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: nakedbeauty_ru
+    url: http://www.livejournal.com/community/nakedbeauty_ru/
+  feed_url: http://www.livejournal.com/community/nakedbeauty_ru/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Vault13
+    url: http://www.livejournal.com/community/vault13/
+  feed_url: http://www.livejournal.com/community/vault13/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: psy_baby
+    url: http://www.livejournal.com/community/psy_baby/
+  feed_url: http://www.livejournal.com/community/psy_baby/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ovno_club
+    url: http://www.livejournal.com/community/ovno_club/
+  feed_url: http://www.livejournal.com/community/ovno_club/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Grammofon
+    url: http://www.livejournal.com/community/grammofon/
+  feed_url: http://www.livejournal.com/community/grammofon/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Клуб «У Васятки»"
+    url: http://www.livejournal.com/community/u_vasyatki/
+  feed_url: http://www.livejournal.com/community/u_vasyatki/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: centralasian
+    url: http://www.livejournal.com/users/centralasian/
+  feed_url: http://www.livejournal.com/~centralasian/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: CleverCS
+    url: http://ideas.web.cse.unsw.edu.au/
+  feed_url: http://ideas.web.cse.unsw.edu.au/?theme=rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ru_webdev
+    url: http://www.livejournal.com/community/ru_webdev/
+  feed_url: http://www.livejournal.com/community/ru_webdev/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Self-Similar
+    url: http://www.livejournal.com/community/self_similar/
+  feed_url: http://www.livejournal.com/community/self_similar/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Visualizations and practical N-D approach
+    url: http://www.livejournal.com/community/3d_ui/
+  feed_url: http://www.livejournal.com/community/3d_ui/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Изменённые состояния сознания"
+    url: http://www.livejournal.com/community/ru_iss/
+  feed_url: http://www.livejournal.com/community/ru_iss/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: it_ee
+    url: http://www.livejournal.com/community/it_ee/
+  feed_url: http://www.livejournal.com/community/it_ee/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: coffeecardgame
+    url: http://www.livejournal.com/community/coffeecardgame/
+  feed_url: http://www.livejournal.com/community/coffeecardgame/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: dixi
+    url: http://www.livejournal.com/users/dixi/
+  feed_url: http://www.livejournal.com/users/dixi/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: dimere
+    url: http://www.livejournal.com/users/dimere/
+  feed_url: http://www.livejournal.com/users/dimere/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: moedusa
+    url: http://www.livejournal.com/users/moedusa/
+  feed_url: http://www.livejournal.com/users/moedusa/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: estonia
+    url: http://www.livejournal.com/community/estonia/
+  feed_url: http://www.livejournal.com/community/estonia/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: david_m
+    url: http://www.livejournal.com/users/david_m/
+  feed_url: http://www.livejournal.com/users/david_m/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: jwz
+    url: http://www.livejournal.com/users/jwz/
+  feed_url: http://www.livejournal.com/users/jwz/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: bramcohen
+    url: http://www.livejournal.com/users/bramcohen/
+  feed_url: http://www.livejournal.com/users/bramcohen/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: demiurg
+    url: http://www.livejournal.com/users/demiurg/
+  feed_url: http://www.livejournal.com/~demiurg/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Hasan Diwan on the Web
+    url: http://hasan.wits2020.net/~hdiwan/blog/
+  feed_url: http://hasan.wits2020.net/~hdiwan/blog/index.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Martin Fowler
+    url: http://martinfowler.com/bliki
+  feed_url: http://martinfowler.com/bliki/bliki.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Mendokusee
+    url: http://www.livejournal.com/users/mendokusee/
+  feed_url: http://www.livejournal.com/users/mendokusee/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: xekc
+    url: http://www.livejournal.com/users/xekc/
+  feed_url: http://www.livejournal.com/users/xekc/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: FreshMeat
+    url: http://freshmeat.net
+  feed_url: http://freshmeat.net/backend/fm-releases.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: TextDrive Weblog
+    url: ''
+  feed_url: http://textdrive.com/weblog/?atom=1
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: More News
+    url: http://morenews.blogspot.com
+  feed_url: http://morenews.blogspot.com/rss/morenews.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: GTD Rails Application
+    url: ''
+  feed_url: http://www.rousette.org.uk/projects/?atom=1
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Boing Boing
+    url: http://www.boingboing.net/
+  feed_url: http://boingboing.net/index.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Smalltalk по-русски
+    url: ''
+  feed_url: http://www.smalltalk.ru/feed/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "MadWi - RecentChanges"
+    url: http://wiki.madfire.net/
+  feed_url: http://wiki.madfire.net/xml/recentchanges_madwi.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Рабочий журнал в Компании"
+    url: http://in.jetstyle.ru/nikolay/feed
+  feed_url: http://in.jetstyle.ru/nikolay/feed/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: OSNews
+    url: http://www.osnews.com/
+  feed_url: http://www.osnews.com/files/recent.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: katja_i
+    url: http://www.livejournal.com/users/katja_i/
+  feed_url: http://www.livejournal.com/users/katja_i/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "_radiant_"
+    url: http://www.livejournal.com/users/_radiant_/
+  feed_url: http://www.livejournal.com/users/_radiant_/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: LXer
+    url: http://lxer.com/
+  feed_url: http://lxer.com/module/newswire/headlines.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Основной владелец узла обезьян"
+    url: http://pixel-apes.com/mendokusee/feed
+  feed_url: http://pixel-apes.com/mendokusee/feed/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "RootPrompt -- Nothing but Unix"
+    url: http://rootprompt.org
+  feed_url: http://www.rootprompt.org/rss/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Kuso Jassi
+    url: http://npj.ru/kuso/feed
+  feed_url: http://npj.ru/kuso/feed/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Intellectual Agents, Spam bots, Web services"
+    url: http://www.livejournal.com/community/ai_agents/
+  feed_url: http://www.livejournal.com/community/ai_agents/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: vadim_kataev
+    url: http://www.livejournal.com/users/vadim_kataev/
+  feed_url: http://www.livejournal.com/users/vadim_kataev/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ashunik
+    url: http://www.livejournal.com/users/ashunik/
+  feed_url: http://www.livejournal.com/users/ashunik/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: 43 Folders
+    url: http://www.43folders.com
+  feed_url: http://feeds.feedburner.com/43Folders
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: nanowiki
+    url: http://pixel-apes.com/nanowiki/feed
+  feed_url: http://pixel-apes.com/nanowiki/feed/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "If you love somebody, let them go."
+    url: http://www.livejournal.com/users/mjaykissme/
+  feed_url: http://www.livejournal.com/users/mjaykissme/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "ФМ: новости из мира меня"
+    url: http://www.livejournal.com/users/feodor/
+  feed_url: http://www.livejournal.com/~feodor/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "А я и говорю:"
+    url: http://www.livejournal.com/users/estetka/
+  feed_url: http://www.livejournal.com/users/estetka/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: netklon
+    url: http://www.livejournal.com/users/netklon/
+  feed_url: http://www.livejournal.com/users/netklon/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: exceeder
+    url: http://www.livejournal.com/users/exceeder/
+  feed_url: http://www.livejournal.com/users/exceeder/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Spectator's Reg][ster"
+    url: http://nudnik.ru/
+  feed_url: http://nudnik.ru/txt/export.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: djtigerratt
+    url: http://www.livejournal.com/users/djtigerratt/
+  feed_url: http://www.livejournal.com/users/djtigerratt/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Ютх-блог"
+    url: http://www.livejournal.com/community/utx_blog/
+  feed_url: http://www.livejournal.com/community/utx_blog/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Luke Hutteman's public virtual MemoryStream"
+    url: http://www.hutteman.com/weblog/
+  feed_url: http://www.hutteman.com/weblog/rss.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Mike Clark
+    url: http://www.clarkware.com/cgi/blosxom
+  feed_url: http://www.clarkware.com/cgi/blosxom/index.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Chad Fowler
+    url: http://www.chadfowler.com/index.cgi
+  feed_url: http://www.chadfowler.com/?rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Brian Marick
+    url: http://www.testing.com/cgi-bin/blog
+  feed_url: http://www.testing.com/cgi-bin/blog/index.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Glenn Vanderburg
+    url: http://www.vanderburg.org/Blog
+  feed_url: http://www.vanderburg.org/Blog/index.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: James Duncan Davidson
+    url: http://blog.x180.net/
+  feed_url: http://x180.net/Blog/index.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Reflective Surface
+    url: ''
+  feed_url: http://reflectivesurface.com/weblog/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Seb's Open Research"
+    url: http://radio.weblogs.com/0110772/
+  feed_url: http://radio.weblogs.com/0110772/rss.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Danny Ayers
+    url: http://dannyayers.com
+  feed_url: http://dannyayers.com/feed/rdf/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Anarchogeek
+    url: http://www.anarchogeek.com/
+  feed_url: http://www.anarchogeek.com/index.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: The Old New Thing
+    url: http://blogs.msdn.com/oldnewthing/default.aspx
+  feed_url: http://weblogs.asp.net/oldnewthing/Rss.aspx
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: urbansheep
+    url: http://www.livejournal.com/users/urbansheep/
+  feed_url: http://www.livejournal.com/users/urbansheep/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "яцутко"
+    url: http://www.livejournal.com/users/yatsutko/
+  feed_url: http://www.livejournal.com/users/yatsutko/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Douglas Johnston
+    url: http://www.douglasjohnston.net/weblog
+  feed_url: http://www.douglasjohnston.net/weblog/feed/rss2/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Zorgg
+    url: http://zorgg.nudnik.ru/
+  feed_url: http://zorgg.nudnik.ru/txt/export.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: why the lucky stiff
+    url: ''
+  feed_url: http://whytheluckystiff.net/index.atom
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: RedHanded
+    url: http://redhanded.hobix.com
+  feed_url: http://redhanded.hobix.com/index.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Technoblog
+    url: http://tech.rufy.com
+  feed_url: http://tech.rufy.com/feed/rss2/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: railz0r3d!!
+    url: http://www.mans.de/railz0r3d
+  feed_url: http://www.mans.de/railz0r3d/feed/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "jlaine.net - blog"
+    url: ''
+  feed_url: http://jlaine.net/?atom=1&section=blog
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "but she's a girl..."
+    url: http://www.rousette.org.uk/blog
+  feed_url: http://www.rousette.org.uk/blog/feed/rss2/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: David Heinemeier Hansson
+    url: http://www.loudthinking.com/
+  feed_url: http://www.loudthinking.com/index.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Ruby on Rails: Timeline"
+    url: http://dev.rubyonrails.com/timeline
+  feed_url: http://dev.rubyonrails.com/timeline?changeset=on&milestone=on&format=rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: PragDave
+    url: http://blogs.pragprog.com/cgi-bin/pragdave.cgi
+  feed_url: http://www.pragprog.com/pragdave/index.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Vika
+    url: http://www.livejournal.com/users/vika_forever/
+  feed_url: http://www.livejournal.com/~vika_forever/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Kristjan Jansen
+    url: http://kika.trip.ee
+  feed_url: http://kika.trip.ee/index.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Fiona Romeo
+    url: http://foe.typepad.com/blog/
+  feed_url: http://foe.typepad.com/blog/index.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Andres Kytt
+    url: ''
+  feed_url: http://belzaah.blogspot.com/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "La vie est elle un long fleuve tranquille?"
+    url: http://zapa.blogs.com/index/
+  feed_url: http://zapa.blogs.com/index/rss.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Skype Developer Blog
+    url: http://share.skype.com
+  feed_url: http://share.skype.com/sdpblog.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Lenn Pryor
+    url: http://lennpryor.blogs.com/lenn/
+  feed_url: http://lennpryor.blogs.com/lenn/index.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Siim Teller
+    url: http://www.siimteller.com/en/
+  feed_url: http://teller.diip.ee/en/index.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Jaanus Kase
+    url: ''
+  feed_url: http://www.scene.ee/~terminus/blog/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Vincent Oberle
+    url: http://www.oberle.org
+  feed_url: http://www.oberle.org/feed/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: /\ndy Hunt
+    url: http://toolshed.com/blog/articles
+  feed_url: http://www.toolshed.com/blog/index.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Joel on Software
+    url: http://www.joelonsoftware.com
+  feed_url: http://www.joelonsoftware.com/rss.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: brain core
+    url: ''
+  feed_url: http://braincore.blogspot.com/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Planet Ruby on Rails
+    url: http://www.planetrubyonrails.org/
+  feed_url: http://www.planetrubyonrails.org/rss20.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Planet ThoughtWorks
+    url: http://blogs.thoughtworks.com
+  feed_url: http://blogs.thoughtworks.com/rss20.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: planet.freedesktop.org
+    url: http://planet.freedesktop.org
+  feed_url: http://planet.freedesktop.org/rss20.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Planet GNOME
+    url: http://planet.gnome.org/
+  feed_url: http://planet.gnome.org/rss20.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Planet KDE
+    url: http://planetkde.org/
+  feed_url: http://www.planetkde.org/rss20.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: behrk
+    url: http://www.livejournal.com/users/behrk/
+  feed_url: http://www.livejournal.com/~behrk/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: akregator News
+    url: http://akregator.sf.net/
+  feed_url: http://akregator.sourceforge.net/rss2.php
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Ariya Hidayat
+    url: http://ariya.pandu.org/blog/
+  feed_url: http://ariya.pandu.org/blog/index.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Boudewijn Rempt
+    url: http://www.valdyas.org/fading/index.cgi
+  feed_url: http://www.valdyas.org/fading/index.cgi/index.rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Chris Howells (chowells)
+    url: http://www.chrishowells.co.uk/
+  feed_url: http://www.chrishowells.co.uk/display-rss.php
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Derek Kite (dkite)
+    url: ''
+  feed_url: http://digested.blogspot.com/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Rob Kaper (Capzilla)
+    url: http://robertjohnkaper.com/journal/
+  feed_url: http://capzilla.net/blog/rss.php?topic=kde
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Roberto Alsina (ralsina)
+    url: http://www.pycs.net/lateral/weblog/
+  feed_url: http://www.pycs.net/lateral/weblog/rss.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "muesli's Blog"
+    url: http://blog.chris.de/
+  feed_url: http://blog.chris.de/rss.php?version=0.91
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: KDE Dot News
+    url: http://dot.kde.org/
+  feed_url: http://www.kde.org/dotkdeorg.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Alexander Kellett (lypanov)
+    url: ''
+  feed_url: http://lypanov.blogspot.com/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Anne-Marie Mahfouf (annma)
+    url: ''
+  feed_url: http://annma.blogspot.com/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Entrance not for everybody!
+    url: ''
+  feed_url: http://stephenism.blogspot.com/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: filips.net
+    url: http://filips.net
+  feed_url: http://filips.net/feed/rss/
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Blackbeltjones/Work
+    url: http://www.blackbeltjones.com/work
+  feed_url: http://www.blackbeltjones.com/work/?feed=rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Our Technological Future
+    url: ''
+  feed_url: http://jwbats.blogspot.com/atom.xml
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "_trick_ster"
+    url: http://www.livejournal.com/users/_trick_ster/
+  feed_url: http://www.livejournal.com/users/_trick_ster/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: kozko
+    url: http://www.livejournal.com/users/kozko/
+  feed_url: http://www.livejournal.com/users/kozko/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: svetasmirnova
+    url: http://www.livejournal.com/users/svetasmirnova/
+  feed_url: http://www.livejournal.com/users/svetasmirnova/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Creating Passionate Users
+    url: http://headrush.typepad.com/creating_passionate_users/
+  feed_url: http://headrush.typepad.com/creating_passionate_users/index.rdf
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: nedorazumenie
+    url: http://www.livejournal.com/users/nedorazumenie/
+  feed_url: http://www.livejournal.com/users/nedorazumenie/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: sobaker
+    url: http://www.livejournal.com/users/sobaker/
+  feed_url: http://www.livejournal.com/users/sobaker/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: stormos_lib
+    url: http://www.livejournal.com/users/stormos_lib/
+  feed_url: http://www.livejournal.com/users/stormos_lib/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: yole
+    url: http://www.livejournal.com/users/yole/
+  feed_url: http://www.livejournal.com/users/yole/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: micuko
+    url: http://www.livejournal.com/users/micuko/
+  feed_url: http://www.livejournal.com/users/micuko/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: legnangel
+    url: http://www.livejournal.com/users/legnangel/
+  feed_url: http://www.livejournal.com/users/legnangel/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: xvii
+    url: http://www.livejournal.com/users/xvii/
+  feed_url: http://www.livejournal.com/users/xvii/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: murmaid
+    url: http://www.livejournal.com/users/murmaid/
+  feed_url: http://www.livejournal.com/users/murmaid/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Блог Евгения Криштафовича"
+    url: http://www.livejournal.com/users/krishtafovitsh/
+  feed_url: http://www.livejournal.com/users/krishtafovitsh/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: rc|live
+    url: http://www.livejournal.com/users/insarra/
+  feed_url: http://www.livejournal.com/~insarra/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Ван Намбер"
+    url: http://www.livejournal.com/users/vannamber/
+  feed_url: http://www.livejournal.com/~vannamber/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Биографический Журнал"
+    url: http://www.livejournal.com/users/biograph/
+  feed_url: http://www.livejournal.com/~biograph/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Dmitry
+    url: http://www.livejournal.com/users/deevain/
+  feed_url: http://www.livejournal.com/~deevain/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Not Found
+    url: http://www.livejournal.com/users/just_found/
+  feed_url: http://www.livejournal.com/~just_found/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: katti21
+    url: http://www.livejournal.com/users/katti21/
+  feed_url: http://www.livejournal.com/users/katti21/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Третула"
+    url: http://www.livejournal.com/users/tretula/
+  feed_url: http://www.livejournal.com/~tretula/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Зенгельшухер"
+    url: http://www.livejournal.com/users/zengelshuher/
+  feed_url: http://www.livejournal.com/~zengelshuher/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Снежа"
+    url: http://www.livejournal.com/users/_bagira/
+  feed_url: http://www.livejournal.com/~_bagira/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: voinov
+    url: http://www.livejournal.com/users/voinov/
+  feed_url: http://www.livejournal.com/~voinov/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: katka
+    url: http://www.livejournal.com/users/kakakondia/
+  feed_url: http://www.livejournal.com/~kakakondia/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: redion
+    url: http://www.livejournal.com/users/redion/
+  feed_url: http://www.livejournal.com/users/redion/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: belka
+    url: http://www.livejournal.com/users/bellechka/
+  feed_url: http://www.livejournal.com/~bellechka/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: exper
+    url: http://www.livejournal.com/users/exper/
+  feed_url: http://www.livejournal.com/users/exper/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: grey_evil
+    url: http://www.livejournal.com/users/grey_evil/
+  feed_url: http://www.livejournal.com/users/grey_evil/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: lavrov
+    url: http://www.livejournal.com/users/lavrov/
+  feed_url: http://www.livejournal.com/users/lavrov/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: 3apa3a_b_ta3e
+    url: http://www.livejournal.com/users/3apa3a_b_ta3e/
+  feed_url: http://www.livejournal.com/~3apa3a_b_ta3e/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: vas_ka
+    url: http://www.livejournal.com/users/vas_ka/
+  feed_url: http://www.livejournal.com/~vas_ka/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: girafique
+    url: http://www.livejournal.com/users/girafique/
+  feed_url: http://www.livejournal.com/~girafique/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: anight
+    url: http://www.livejournal.com/users/anight/
+  feed_url: http://www.livejournal.com/users/anight/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Oleg Artamonov
+    url: http://www.livejournal.com/users/olegart/
+  feed_url: http://www.livejournal.com/users/olegart/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: insa
+    url: http://www.livejournal.com/users/insa/
+  feed_url: http://www.livejournal.com/users/insa/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: kukutz
+    url: http://www.livejournal.com/users/kukutz/
+  feed_url: http://www.livejournal.com/users/kukutz/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: thingol
+    url: http://www.livejournal.com/users/thingol/
+  feed_url: http://www.livejournal.com/users/thingol/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: feelstation
+    url: http://www.livejournal.com/users/feelstation/
+  feed_url: http://www.livejournal.com/users/feelstation/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: svetkin_may
+    url: http://www.livejournal.com/users/svetkin_may/
+  feed_url: http://www.livejournal.com/users/svetkin_may/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: winamp_plug_in
+    url: http://www.livejournal.com/users/winamp_plug_in/
+  feed_url: http://www.livejournal.com/users/winamp_plug_in/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: guestl
+    url: http://www.livejournal.com/users/guestl/
+  feed_url: http://www.livejournal.com/users/guestl/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "_lance"
+    url: http://www.livejournal.com/users/_lance/
+  feed_url: http://www.livejournal.com/users/_lance/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: brotherfedor
+    url: http://www.livejournal.com/users/brotherfedor/
+  feed_url: http://www.livejournal.com/users/brotherfedor/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: kingoleg
+    url: http://www.livejournal.com/users/kingoleg/
+  feed_url: http://www.livejournal.com/users/kingoleg/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ati
+    url: http://www.livejournal.com/users/ati/
+  feed_url: http://www.livejournal.com/users/ati/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "сКотское."
+    url: http://www.livejournal.com/users/skotina/
+  feed_url: http://www.livejournal.com/users/skotina/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Мания Величества"
+    url: http://www.livejournal.com/users/samka/
+  feed_url: http://www.livejournal.com/users/samka/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "_scorp_"
+    url: http://www.livejournal.com/users/_scorp_/
+  feed_url: http://www.livejournal.com/users/_scorp_/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "бобро приходит и уходит, а кушать хочется всегда!"
+    url: http://www.livejournal.com/users/dvor/
+  feed_url: http://www.livejournal.com/users/dvor/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: kiad
+    url: http://www.livejournal.com/users/kiad/
+  feed_url: http://www.livejournal.com/users/kiad/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: the_zoi
+    url: http://www.livejournal.com/users/the_zoi/
+  feed_url: http://www.livejournal.com/users/the_zoi/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: tihonia
+    url: http://www.livejournal.com/users/tihonia/
+  feed_url: http://www.livejournal.com/users/tihonia/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: xpundel
+    url: http://www.livejournal.com/users/xpundel/
+  feed_url: http://www.livejournal.com/users/xpundel/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: xun
+    url: http://www.livejournal.com/users/xun/
+  feed_url: http://www.livejournal.com/users/xun/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: yolka
+    url: http://www.livejournal.com/users/yolka/
+  feed_url: http://www.livejournal.com/users/yolka/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: yukki_11
+    url: http://www.livejournal.com/users/yukki_11/
+  feed_url: http://www.livejournal.com/users/yukki_11/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: codera
+    url: http://www.livejournal.com/users/codera/
+  feed_url: http://www.livejournal.com/~codera/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: 2sheds
+    url: http://www.livejournal.com/users/2sheds/
+  feed_url: http://www.livejournal.com/~2sheds/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: gadyuka
+    url: http://www.livejournal.com/users/gadyuka/
+  feed_url: http://www.livejournal.com/~gadyuka/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: ovidieastigmata
+    url: http://www.livejournal.com/users/ovidieastigmata/
+  feed_url: http://www.livejournal.com/users/ovidieastigmata/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: alenaaa
+    url: http://www.livejournal.com/users/alenaaa/
+  feed_url: http://www.livejournal.com/~alenaaa/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "0116"
+    url: http://www.livejournal.com/users/0116/
+  feed_url: http://www.livejournal.com/~0116/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: a_gura
+    url: http://www.livejournal.com/users/a_gura/
+  feed_url: http://www.livejournal.com/~a_gura/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: alexnz
+    url: http://www.livejournal.com/users/alexnz/
+  feed_url: http://www.livejournal.com/~alexnz/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: allter
+    url: http://www.livejournal.com/users/allter/
+  feed_url: http://www.livejournal.com/~allter/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: amirov
+    url: http://www.livejournal.com/users/amirov/
+  feed_url: http://www.livejournal.com/~amirov/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: angryxpeh
+    url: http://www.livejournal.com/users/angryxpeh/
+  feed_url: http://www.livejournal.com/~angryxpeh/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: anton_z
+    url: http://www.livejournal.com/users/anton_z/
+  feed_url: http://www.livejournal.com/~anton_z/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: antoxa
+    url: http://www.livejournal.com/users/antoxa/
+  feed_url: http://www.livejournal.com/~antoxa/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: artreal
+    url: http://www.livejournal.com/users/artreal/
+  feed_url: http://www.livejournal.com/~artreal/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: makar_007
+    url: http://www.livejournal.com/users/makar_007/
+  feed_url: http://www.livejournal.com/users/makar_007/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: AVF
+    url: http://www.livejournal.com/users/avf/
+  feed_url: http://www.livejournal.com/~avf/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: bagira
+    url: http://www.livejournal.com/users/bagira/
+  feed_url: http://www.livejournal.com/~bagira/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: eskape
+    url: http://www.livejournal.com/users/eskape/
+  feed_url: http://www.livejournal.com/~eskape/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: m_elle
+    url: http://www.livejournal.com/users/m_elle/
+  feed_url: http://www.livejournal.com/~m_elle/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: avva
+    url: http://www.livejournal.com/users/avva/
+  feed_url: http://www.livejournal.com/~avva/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: china_cat
+    url: http://www.livejournal.com/users/china_cat/
+  feed_url: http://www.livejournal.com/~china_cat/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: latexzapal
+    url: http://www.livejournal.com/users/latexzapal/
+  feed_url: http://www.livejournal.com/~latexzapal/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: sergeax
+    url: http://www.livejournal.com/users/sergeax/
+  feed_url: http://www.livejournal.com/~sergeax/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: chingizid
+    url: http://www.livejournal.com/users/chingizid/
+  feed_url: http://www.livejournal.com/~chingizid/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "Горчев"
+    url: http://www.livejournal.com/users/dimkin/
+  feed_url: http://www.livejournal.com/~dimkin/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: mastfeller
+    url: http://www.livejournal.com/users/mastfeller/
+  feed_url: http://www.livejournal.com/users/mastfeller/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: teplorod
+    url: http://www.livejournal.com/users/teplorod/
+  feed_url: http://www.livejournal.com/~teplorod/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: sandy_kil
+    url: http://www.livejournal.com/users/sandy_kil/
+  feed_url: http://www.livejournal.com/~sandy_kil/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: damper
+    url: http://www.livejournal.com/users/damper/
+  feed_url: http://www.livejournal.com/~damper/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: khuli
+    url: http://www.livejournal.com/users/khuli/
+  feed_url: http://www.livejournal.com/~khuli/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: "_catalyst_"
+    url: http://www.livejournal.com/users/_catalyst_/
+  feed_url: http://www.livejournal.com/users/_catalyst_/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: polumrak
+    url: http://www.livejournal.com/users/polumrak/
+  feed_url: http://www.livejournal.com/users/polumrak/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: anatolix
+    url: http://www.livejournal.com/users/anatolix/
+  feed_url: http://www.livejournal.com/users/anatolix/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: dsx
+    url: http://www.livejournal.com/users/dsx/
+  feed_url: http://www.livejournal.com/users/dsx/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: hotgiraffe
+    url: http://www.livejournal.com/users/hotgiraffe/
+  feed_url: http://www.livejournal.com/~hotgiraffe/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Maria_D
+    url: http://www.livejournal.com/users/maria_d/
+  feed_url: http://www.livejournal.com/~maria_d/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: pbl
+    url: http://www.livejournal.com/users/pbl/
+  feed_url: http://www.livejournal.com/users/pbl/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Alexei Lebedev
+    url: http://www.livejournal.com/users/alexeilebedev/
+  feed_url: http://www.livejournal.com/~alexeilebedev/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: Alexei
+    url: http://www.livejournal.com/users/alexei_/
+  feed_url: http://www.livejournal.com/~alexei_/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: catscrossing
+    url: http://www.livejournal.com/users/catscrossing/
+  feed_url: http://www.livejournal.com/~catscrossing/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: siron_thedamned
+    url: http://www.livejournal.com/users/siron_thedamned/
+  feed_url: http://www.livejournal.com/users/siron_thedamned/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []
+- !ruby/object:Feed 
+  author: !ruby/object:Author 
+    email: 
+    name: bk_man
+    url: http://www.livejournal.com/users/bk_man/
+  feed_url: http://www.livejournal.com/users/bk_man/data/rss
+  star: !ruby/object:Star 
+    set: 
+  tags: !ruby/object:Tags 
+    tags: []

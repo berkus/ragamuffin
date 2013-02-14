@@ -1,0 +1,39 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="8" >
+  <Doc0 NumberOfViews="1" URL="file:///home/crypt/dev/infoinn/impl/article_tagger.rb" >
+   <View0 Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:///home/crypt/dev/infoinn/impl/feed.rb" >
+   <View0 line="7" Type="Source" />
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:///home/crypt/dev/infoinn/impl/author.rb" >
+   <View0 line="0" Type="Source" />
+  </Doc2>
+  <Doc3 NumberOfViews="1" URL="file:///home/crypt/dev/infoinn/impl/yamlio.rb" >
+   <View0 line="22" Type="Source" />
+  </Doc3>
+  <Doc4 NumberOfViews="1" URL="file:///home/crypt/dev/infoinn/impl/article.rb" >
+   <View0 line="1" Type="Source" />
+  </Doc4>
+  <Doc5 NumberOfViews="1" URL="http://www.ruby-doc.org/docs/ProgrammingRuby/html/tut_threads.html" >
+   <View0 Type="Documentation" />
+  </Doc5>
+  <Doc6 NumberOfViews="1" URL="http://www.ruby-doc.org/docs/ProgrammingRuby/html/ref_c_string.html#String.split" >
+   <View0 Type="Documentation" />
+  </Doc6>
+  <Doc7 NumberOfViews="1" URL="file:///home/crypt/dev/infoinn/impl/technorati.rb" >
+   <View0 line="48" Type="Source" />
+  </Doc7>
+ </DocsAndViews>
+ <pluginList>
+  <kdevbookmarks>
+   <bookmarks/>
+  </kdevbookmarks>
+  <kdevrbdebugger>
+   <breakpointList/>
+   <watchExpressions/>
+  </kdevrbdebugger>
+ </pluginList>
+</KDevPrjSession>
